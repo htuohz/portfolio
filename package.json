@@ -4,7 +4,6 @@
   "dependencies": {
     "classnames": "2.2.6",
     "moment": "2.29.1",
-    "node-sass": "5.0.0",
     "nouislider": "14.6.4",
     "react": "17.0.2",
     "react-datetime": "3.0.4",
@@ -14,7 +13,9 @@
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "4.0.3",
     "react-scroll": "^1.8.4",
-    "reactstrap": "8.9.0"
+    "reactstrap": "8.9.0",
+    "sass": "^1.43.5",
+    "sass-loader": "^12.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
