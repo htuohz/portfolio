@@ -138,7 +138,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="https://www.facebook.com/htuohz"
                 target="_blank"
                 title="Contact me on FaceBook"
               >
@@ -171,7 +171,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial?ref=creativetim"
+                href="https://github.com/htuohz"
                 target="_blank"
                 title="Star on GitHub"
               >
