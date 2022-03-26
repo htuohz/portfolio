@@ -160,7 +160,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.linkedin.com/in/tianhao-zhou%F0%9F%92%BB-5853a277/"
+                href="https://www.linkedin.com/in/tianhao-zhou-5853a277/"
                 target="_blank"
                 title="Connect on LinkedIn"
               >
