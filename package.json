@@ -76,5 +76,8 @@
   "license": "MIT",
   "resolutions": {
     "caniuse-lite": "1.0.30001632"
+  },
+  "engines": {
+    "node": "14.17.5"
   }
 }
